@@ -14,10 +14,8 @@ This project demonstrates a vehicle tracking system implemented using object det
 
   ## Installation
   1. Clone this repository:
-   ```bash
-      git clone https://github.com/AtharvaSinghRathore/vehicle-tracking.git
-      cd vehicle-tracking
-  
+      - git clone https://github.com/AtharvaSinghRathore/vehicle-tracking.git
+      - cd vehicle-tracking
   2. Install required Python packages:
    - pip install -r requirements.txt
   3. Download YOLO model weights (e.g., yolov8l.pt) and place them in the Yolo-Weights directory.
